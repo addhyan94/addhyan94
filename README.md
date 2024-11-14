@@ -29,3 +29,24 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
 </div>
+
+<div align="center">
+  <h3>🚀 My GitHub Trophies</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=addhyan94&theme=radical&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies">
+  </a>
+</div>
+
+<div align="center">
+  <h3>🌟 Contributions and Activity</h3>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=addhyan94&theme=radical" alt="GitHub Activity Graph">
+</div>
+
+<div align="center">
+  <h3>⚙️ Technologies & Tools</h3>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a" alt="C++">
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker">
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git">
+</div>
