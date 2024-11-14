@@ -6,6 +6,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addhyan94&layout=compact&langs_count=8&theme=radical" />
 </a>
 
+<br><br><br><br><br><br><br>
+
 <h2 align="center">✨ Welcome to My World ✨</h2>
 <p align="center">👋 Hi there! I'm <strong>Addhyan</strong>, a passionate coder and technology enthusiast who loves to craft innovative solutions and learn new things. Dive into my projects and feel free to connect with me for collaboration or just a friendly chat!</p>
 
@@ -27,7 +29,3 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=addhyan94&count_private=true&show_icons=true" />
-</a>
