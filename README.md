@@ -1,14 +1,14 @@
-# 🚀 Addhyan Tiwari | Passionate Coder 💻  
+# 🚀 **Addhyan Tiwari** | Passionate Coder 💻  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F70000&width=435&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Code+Lover" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Me  
-👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ & Python** developer, always excited to learn, build, and contribute to open-source.  
+👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ , C , HTML , CSS , JS & Python** developer, always excited to learn, build, and contribute to open-source.  
 💡 I love solving problems, working on real-world projects, and **collaborating** with developers.  
 
-🔹 **Tech Stack:** C++, Python, JavaScript, Git, Docker  
+🔹 **Tech Stack:** C , C++ , Python , HTML5 , Css , JavaScript , Git , Github.  
 🔹 **Interests:** Competitive Programming, Open Source, Software Development  
 🔹 **Goal:** To build impactful coding projects 🚀  
 
@@ -47,23 +47,16 @@
 
 ---
 
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/addhyan94/addhyan94/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🚀 Fun Animated Tech Stack  
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50px" />
+   <img src="https://img.shields.io/badge/C-Advanced-skyblue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-Beginner-brightgreen?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-Startup-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-Startup Beginner-brightgreen?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/HTML-Beginner Level-blue?style=for-the-badge&logo=HTML5" />
 </p>
 
 ---
@@ -71,6 +64,13 @@
 ## 🎯 Fun Fact  
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+---
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/addhyan94/addhyan94/blob/output/github-contribution-grid-snake.svg" alt="🐍 Contribution Graph is Not Available"/>
 </p>
 
 ---
@@ -92,3 +92,11 @@
 ---
 
 🚀 **"Code. Build. Innovate. Repeat."** 🚀  
+<h2 align="center">
+☠️😈🚀 ~~ Let's play with the code. ~~ 🚀😈☠️
+</h2>
+<h4 align="right">
+🚀 "Learn. Code. Conquer." 🚀
+</h4>
+
+-----
