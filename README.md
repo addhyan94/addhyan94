@@ -1,13 +1,16 @@
-# 🚀 Addhyan Tiwari | Coding Enthusiast 💻  
+# 🚀 Addhyan Tiwari | Passionate Coder 💻  
 
-**`Tech Explorer | Problem Solver | Open Source Contributor`**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F70000&width=435&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Code+Lover" alt="Typing SVG" />
+</p>
 
 ## 🌟 About Me  
-👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ & Python** developer, always excited to learn, build, and contribute to open-source. I love solving complex problems, working on real-world projects, and sharing knowledge with the community.  
+👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ & Python** developer, always excited to learn, build, and contribute to open-source.  
+💡 I love solving problems, working on real-world projects, and **collaborating** with developers.  
 
 🔹 **Tech Stack:** C++, Python, JavaScript, Git, Docker  
 🔹 **Interests:** Competitive Programming, Open Source, Software Development  
-🔹 **Goal:** To build impactful and unique coding projects  
+🔹 **Goal:** To build impactful coding projects 🚀  
 
 ---
 
@@ -52,14 +55,22 @@
 
 ---
 
-## ⚙️ Technologies & Tools  
+## 🚀 Fun Animated Tech Stack  
 
 <p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50px" />
   <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-Beginner-brightgreen?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" />
+</p>
+
+---
+
+## 🎯 Fun Fact  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 ---
