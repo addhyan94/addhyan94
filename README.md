@@ -1,52 +1,83 @@
-<a href="https://github.com/addhyan94/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=addhyan94&count_private=true&show_icons=true&theme=radical" />
-</a>
+# 🚀 Addhyan Tiwari | Coding Enthusiast 💻  
 
-<a href="https://github.com/addhyan94/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addhyan94&layout=compact&langs_count=8&theme=radical" />
-</a>
+**`Tech Explorer | Problem Solver | Open Source Contributor`**  
 
-<br><br><br><br><br><br><br>
+## 🌟 About Me  
+👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ & Python** developer, always excited to learn, build, and contribute to open-source. I love solving complex problems, working on real-world projects, and sharing knowledge with the community.  
 
-<h2 align="center">✨ Welcome to My World ✨</h2>
-<p align="center">👋 Hi there! I'm <strong>Addhyan</strong>, a passionate coder and technology enthusiast who loves to craft innovative solutions and learn new things. Dive into my projects and feel free to connect with me for collaboration or just a friendly chat!</p>
+🔹 **Tech Stack:** C++, Python, JavaScript, Git, Docker  
+🔹 **Interests:** Competitive Programming, Open Source, Software Development  
+🔹 **Goal:** To build impactful and unique coding projects  
 
-<div align="center">
+---
+
+## 📊 GitHub Stats & Most Used Languages  
+
+<p align="center">
   <a href="https://github.com/addhyan94">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=addhyan94&theme=radical" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=addhyan94&count_private=true&show_icons=true&theme=radical" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/addhyan94/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://github.com/addhyan94">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addhyan94&layout=compact&langs_count=10&theme=radical" />
   </a>
-  <a href="mailto:addhyan94@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <a href="https://github.com/addhyan94">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=addhyan94&theme=radical" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
-</div>
+---
 
-<div align="center">
-  <h3>🚀 My GitHub Trophies</h3>
+## 🏆 GitHub Achievements  
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=addhyan94&theme=radical&no-frame=true&margin-w=10&column=5" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=addhyan94&theme=radical&no-frame=true&margin-w=10&column=5" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <h3>🌟 Contributions and Activity</h3>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=addhyan94&theme=radical" alt="GitHub Activity Graph">
-</div>
+---
 
-<div align="center">
-  <h3>⚙️ Technologies & Tools</h3>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a" alt="C++">
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker">
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git">
-</div>
+## 🐍 Contribution Graph  
+
+<p align="center">
+  <img src="https://github.com/addhyan94/addhyan94/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚙️ Technologies & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-brightgreen?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker" />
+</p>
+
+---
+
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/addhyan94">
+    <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/addhyan_tiwari_94">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:addhyant85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+🚀 **"Code. Build. Innovate. Repeat."** 🚀  
