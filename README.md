@@ -1,7 +1,7 @@
 # 🚀 **Addhyan Tiwari** | Passionate Coder 💻  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F70000&width=435&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=510&color=F70000&width=436&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Coder+Lover" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Me  
@@ -51,12 +51,13 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50px" />
-   <img src="https://img.shields.io/badge/-Advanced-skyblue?style=for-the-badge&logo=c" />
+   <img src="https://img.shields.io/badge/C-Advanced-skyblue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Python-Startup-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-Startup Beginner-brightgreen?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/HTML-Beginner Level-blue?style=for-the-badge&logo=HTML5" />
+  <img src="https://img.shields.io/badge/CSS-Startup Beginner-black?style=for-the-badge&logo=CSS" />
 </p>
 
 ---
