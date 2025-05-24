@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50px" />
-   <img src="https://img.shields.io/badge/C-Advanced-skyblue?style=for-the-badge&logo=c" />
+   <img src="https://img.shields.io/badge/-Advanced-skyblue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Python-Startup-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-Startup Beginner-brightgreen?style=for-the-badge&logo=javascript" />
@@ -64,13 +64,6 @@
 ## 🎯 Fun Fact  
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
----
-## 🐍 Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/addhyan94/addhyan94/blob/output/github-contribution-grid-snake.svg" alt="🐍 Contribution Graph is Not Available"/>
 </p>
 
 ---
