@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/addhyan94">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=addhyan94&count_private=true&show_icons=true&theme=radical" />
+    <img width="48%" src="https://github-REDME-stats.vercel.app/api?username=addhyan94&count_private=true&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/addhyan94">
     <img width="48%" src="https://github-REDME-stats.vercel.app/api/top-langs/?username=addhyan94&layout=compact&langs_count=10&theme=radical" />
@@ -50,15 +50,6 @@
   <a href="https://github.com/addhyan94">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=addhyan94&theme=radical" />
   </a>
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <a href="https://github.com/addhyan94/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=addhyan94&theme=monokai&no-frame=true&column=6" />
 </p>
 
 ---
