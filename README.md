@@ -1,16 +1,33 @@
 # 🚀 **Addhyan Tiwari** | Passionate Coder 💻  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=510&color=F70000&width=436&lines=Tech+Explorer+%7C+Problem+Solver+%7C+Coder+Lover" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Tech+Explorer+%7C+Problem+Solver;Coder+Lover+%7C+Focus+on+real-world+problem+solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=F70000&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Strong+Logic+with+C+%26+C%2B%2B;DSA+Learner+with+Real+Projects;Building+Clean+and+Interactive+Web+UI" />
 </p>
 
 ## 🌟 About Me  
 👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ , C , HTML , CSS , JS & Python** developer, always excited to learn, build, and contribute to open-source.  
 💡 I love solving problems, working on real-world projects, and **collaborating** with developers.  
 
-🔹 **Tech Stack:** C , C++ , Python , HTML5 , Css , JavaScript , Git , Github.  
-🔹 **Interests:** Competitive Programming, Open Source, Software Development  
+🔹 **Tech Stack:** C , C++ , Python , HTML5 , Css , JavaScript , Git , Github , React (learning next 🚀).   
+🔹 **Interests:** Competitive Programming, Open Source, Web Development ( Frontend & Backend (Learning Phase)).   
 🔹 **Goal:** To build impactful coding projects 🚀  
+
+---
+
+## 🚀 Fun Animated Tech Stack  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50px" />
+   <img src="https://img.shields.io/badge/C-Advanced-skyblue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Python-Startup-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=HTML5" />
+  <img src="https://img.shields.io/badge/CSS-Intermediate-lightgreen?style=for-the-badge&logo=CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-Beginner Level-brightgreen?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-Startup Beginner-lightblue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Git-VersionControl-darkmagenta?style=for-the-badge&logo=git" />
+</p>
 
 ---
 
@@ -47,35 +64,16 @@
 
 ---
 
-## 🚀 Fun Animated Tech Stack  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50px" />
-   <img src="https://img.shields.io/badge/C-Advanced-skyblue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Python-Startup-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-Startup Beginner-brightgreen?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/HTML-Beginner Level-blue?style=for-the-badge&logo=HTML5" />
-  <img src="https://img.shields.io/badge/CSS-Startup Beginner-black?style=for-the-badge&logo=CSS" />
-</p>
-
----
-
-## 🎯 Fun Fact  
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
----
-
 ## 🔗 Connect with Me  
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/addhyan0tiwari">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-darkmagenta?style=for-the-badge&logo=linkedin" />
+  </a>
   <a href="https://github.com/addhyan94">
     <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/addhyan_tiwari_94">
+  <a href="https://www.instagram.com/addhyan_tiwari">
     <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" />
   </a>
   <a href="mailto:addhyant85@gmail.com">
