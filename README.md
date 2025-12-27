@@ -58,9 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=addhyan94&theme=radical&no-frame=true&margin-w=10&column=5" />
-  </a>
-</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=addhyan94&theme=monokai&no-frame=true&column=6" />
 
 ---
 
