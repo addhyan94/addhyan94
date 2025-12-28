@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/addhyan94">
-    <img src="https://github-README-streak-stats.herokuapp.com/?user=addhyan94&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=addhyan94&theme=radical" />
   </a>
 </p>
 
