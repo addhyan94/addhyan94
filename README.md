@@ -47,9 +47,10 @@
 ## 🔥 GitHub Streak  
 
  <p align="center">
-   <a href="https://github.com/addhyan94">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=addhyan94&theme=radical&border_radius=4.8&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=494" alt="GitHub Streak" /></a>
+   <!-- <a href="https://github.com/addhyan94">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=addhyan94&theme=radical" />
-  </a>
+  </a> -->
   <!-- ![](https://github-readme-stats.vercel.app/api?username=addhyan94&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=addhyan94&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=addhyan94&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
