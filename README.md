@@ -80,9 +80,9 @@
 🚀 **"Code. Build. Innovate. Repeat."** 🚀  
 <h2 align="center">
 ☠️😈🚀 ~~ Let's play with the code. ~~ 🚀😈☠️
-</h2>
 <h4 align="right">
 🚀 "Learn. Code. Conquer." 🚀
 </h4>
+</h2>
 
 -----
