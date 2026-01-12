@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=600&color=F70000&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Strong+Logic+with+C+%26+C%2B%2B;DSA+Learner+with+Real+Projects;Building+Clean+and+Interactive+Web+UI" />
 </p>
 
+
+
 ## 🌟 About Me  
 👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ , C , HTML , CSS , JS & Python** developer, always excited to learn, build, and contribute to open-source.  
 💡 I love solving problems, working on real-world projects, and **collaborating** with developers.  
