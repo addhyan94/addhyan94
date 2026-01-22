@@ -13,7 +13,7 @@
 💡 I love solving problems, working on real-world projects, and **collaborating** with developers.  
 
 🔹 **Tech Stack:** C , C++ , Python , HTML5 , Css , JavaScript , Git , Github , React (learning next 🚀).   
-🔹 **Interests:** Competitive Programming, Open Source, Web Development ( Frontend & Backend (Learning Phase)).   
+🔹 **Interests:** Competitive Programming, Open Source, Web Development ( Frontend (Learning Phase)).   
 🔹 **Goal:** To build impactful coding projects 🚀  
 
 ---
