@@ -1,4 +1,4 @@
-# 🚀 **Addhyan Tiwari** | Passionate Coder 💻  
+# 🚀 **Addhyan Tiwari** |  Passionate Coder 💻  
 
 <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Tech+Explorer+%7C+Problem+Solver;Coder+Lover+%7C+Focus+on+real-world+problem+solving" alt="Typing SVG" />
