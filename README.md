@@ -8,12 +8,15 @@
 
 
 ## 🌟 About Me  
-👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ , C , HTML , CSS , JS & Python** developer, always excited to learn, build, and contribute to open-source.  
-💡 I love solving problems, working on real-world projects, and **collaborating** with developers.  
+👋 Hi, I'm **Addhyan Tiwari**, a Frontend Developer focused on building **modern, responsive & interactive web experiences**.  
+💡 I turn ideas into real UI with clean design, smooth interactions, and real-world projects.
+<!-- 👋 Hi, I'm **Addhyan Tiwari**, a passionate **C++ , C , HTML , CSS , JS & Python** developer, always excited to learn, build, and contribute to open-source.  
+💡 I love solving problems, working on real-world projects, and **collaborating** with developers.  -->
 
 🔹 **Tech Stack:** C , C++ , Python , HTML5 , Css , JavaScript , Git , Github , React (learning next 🚀).   
-🔹 **Interests:** Competitive Programming, Open Source, Web Development ( Frontend (Learning Phase)).   
-🔹 **Goal:** To build impactful coding projects 🚀  
+🔹 **Interests:** Competitive Programming, Open Source, Web Development..   
+🔹 **Goal:** To build impactful real-world web projects and solve meaningful problems through code 🚀
+<!-- 🔹 **Goal:** To build impactful coding projects 🚀 & Real world Problem Solveing in Web world.  -->
 
 ---
 
