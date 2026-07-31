@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50px" />
-   <img src="https://img.shields.io/badge/C-Advanced-skyblue?style=for-the-badge&logo=c" />
+   <img src="https://img.shields.io/badge/C-Intermediate-skyblue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Python-Startup-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/HTML5-Intermediate-orange?style=for-the-badge&logo=HTML5" />
